@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 import axios from 'axios';
 import { RecoilRoot } from 'recoil';
 
-axios.defaults.baseURL = "http://localhost:8000";
+axios.defaults.baseURL = "https://apiscreencast.herokuapp.com/";
 axios.defaults.withCredentials = true;
 
 ReactDOM.render(
