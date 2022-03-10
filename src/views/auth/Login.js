@@ -26,7 +26,7 @@ export default function Login() {
     }
     return (
         <div>
-            <App title="login">
+            <App title="Kudang Koding: Log in">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-4">

@@ -24,7 +24,7 @@ export default function Index() {
         return () => { isMounted = false }
     }, [ url ])
     return (
-        <App title="Series">
+        <App title="Kudang Koding Series">
             <Header title="All Series">
                 The latest <strong>series</strong> we have.
             </Header>

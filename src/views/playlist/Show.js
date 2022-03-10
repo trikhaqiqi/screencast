@@ -55,7 +55,7 @@ export default function Show() {
     // ])
 
     return (
-        <App title="Series">
+        <App title="Kudang Koding Series">
             <Header title={playlist.name}>
                 { playlist.description }
 

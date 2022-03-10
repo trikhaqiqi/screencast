@@ -32,7 +32,7 @@ export default function Register() {
         }
     }
     return (
-        <App title="Register">
+        <App title="Kudang Koding: Register">
         <div className="container">
             <div className="row">
                 <div className="col-md-4">

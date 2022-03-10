@@ -21,7 +21,7 @@ export default function Dashboard() {
     }, [])
 
     return (
-        <App title="Dashboard">
+        <App title="Kudang Koding Dashboard">
             <div className="container">
                 <div className="card">
                     <div className="card-header">
